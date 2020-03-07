@@ -8,6 +8,6 @@
 * Revisar continuamente foros y soluciones de otras personas
 * Probar con varias __semillas__  
 * No obsesionarse con el __public score__ porque hace overfitting  
-  * Generalmente, al elegir los dos modelos, elegir uno el que mejor score en publico y el otro en privado
+  * Al elegir los dos modelos, tomar el que mejor score en publico y en privado
 
 
