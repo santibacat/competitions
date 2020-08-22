@@ -1,2 +1,2 @@
-# saturdays-ai
-Repo to host competitions
+# Competitions
+Repo to host code from competitions
